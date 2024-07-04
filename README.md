@@ -38,7 +38,7 @@ This project requires the following dependencies:
 1.  Clone this repository:
 
 ```
-git clone https://github.com/yuvrajjsingh0/Video-Conferencing.git
+git clone https://github.com/ANUSHKASINGH809/Video-Conferencing.git
 
 ```
 
